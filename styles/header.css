@@ -76,6 +76,10 @@
         display: block;
     }
 
+    .container__texto {
+        display: none;
+    }
+
     .container__titulo--negrito {
         font-weight: 700;
     }
@@ -108,6 +112,27 @@
     }
     .opcoes__botao {
         display: none;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    .container__texto{
+        display: block;
+    }
+
+    .cabecalho {
+        padding: 0 2em;
+    }
+
+    .opcoes {
+        margin-right: auto;
     }
 }
 
