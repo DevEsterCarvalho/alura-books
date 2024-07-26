@@ -4,3 +4,4 @@ Tecnologias utilizadas:
 •	CSS
 •	Java Script
 •	Biblioteca JS Swiper
+Link do projeto na Vercel: https://vercel.com/ester-carvalho-dias-projects/alura-books
